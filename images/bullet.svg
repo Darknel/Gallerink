@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="5px" height="8px" viewBox="0 0 5 8" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>Bullet</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Landing" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Terms-and-Privacy-Desktop" transform="translate(-420.000000, -1652.000000)" fill="#858585">
+            <g id="Card-Text" transform="translate(370.000000, 320.000000)">
+                <g id="Use" transform="translate(50.000000, 1223.000000)">
+                    <g id="Bullet" transform="translate(0.000000, 109.000000)">
+                        <circle id="bullet" cx="2.5" cy="2.5" r="2.5"></circle>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
